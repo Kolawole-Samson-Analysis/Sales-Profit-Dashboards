@@ -13,7 +13,9 @@ Open the Sales & Profit Dashboard.xlsx file in Excel.
 Use the slicers on each dashboard to filter the data by:
 
 *Year
+
 *Region
+
 *Sub-category
 
 Observe how charts and tables update in real time to explore trends and patterns.
