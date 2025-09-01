@@ -2,6 +2,11 @@
 Interactive Sales & Profit Dashboard built in Excel with slicers
 This repository contains two interactive Excel dashboards—Sales and Profit—designed to turn raw data into actionable insights. The dashboards use slicers to filter by year, region, and sub-category, making them fully dynamic and interactive.
 
+### Sales Dashboard Preview
+![Dashboard Preview 1](dashboard-Preview%201.png)
+
+### Profit Dashboard Preview
+![Dashboard preview 2](dashboard-preview%202.png)
 **How to Use**
 Open the Sales & Profit Dashboard.xlsx file in Excel.
 Use the slicers on each dashboard to filter the data by:
