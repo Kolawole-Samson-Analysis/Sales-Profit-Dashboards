@@ -8,7 +8,7 @@ This repository contains two interactive Excel dashboards—Sales and Profit—d
 ### Profit Dashboard Preview
 ![Profit Dashboard Preview](preview%202.png)
 
-**How to Use**
+**How to Use:**
 Open the Sales & Profit Dashboard.xlsx file in Excel.
 Use the slicers on each dashboard to filter the data by:
 
